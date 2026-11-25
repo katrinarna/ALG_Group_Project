@@ -1,0 +1,2 @@
+algorithm,n,dimension,k,recall_at_10,query_time_ms,build_time_s
+Brute force,50000,384,10,1.0,34.07158474996686,0.0
